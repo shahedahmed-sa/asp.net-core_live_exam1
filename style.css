@@ -1,0 +1,18 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+  }
+
+.div_hidden {
+    visibility: none;
+    background-color: aquamarine;
+
+  }
+
+  .div_none{
+
+    display: none;
+    background-color: rgb(155, 127, 255);
+  }
